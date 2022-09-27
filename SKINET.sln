@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SKINET", "SKINET\SKINET.csproj", "{38E964A8-34E9-4260-9EAF-1EF72085E29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{037CDC26-6877-461C-9D3C-B5BD01C21FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrastructure", "Intrastructure\Intrastructure.csproj", "{8A566E40-6437-448A-81E1-D3690A62D41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E964A8-34E9-4260-9EAF-1EF72085E29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E964A8-34E9-4260-9EAF-1EF72085E29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E964A8-34E9-4260-9EAF-1EF72085E29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E964A8-34E9-4260-9EAF-1EF72085E29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037CDC26-6877-461C-9D3C-B5BD01C21FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037CDC26-6877-461C-9D3C-B5BD01C21FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037CDC26-6877-461C-9D3C-B5BD01C21FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037CDC26-6877-461C-9D3C-B5BD01C21FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A566E40-6437-448A-81E1-D3690A62D41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A566E40-6437-448A-81E1-D3690A62D41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A566E40-6437-448A-81E1-D3690A62D41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A566E40-6437-448A-81E1-D3690A62D41F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD0E187-DE36-4D0F-8A1E-46368361FF19}
+	EndGlobalSection
+EndGlobal

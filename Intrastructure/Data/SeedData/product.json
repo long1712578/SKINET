@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Typescript entry boards",
+    "Description": "Hello everyone, not you",
+    "Price": 120,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Angular basic",
+    "Description": "Hello everyone learning angular",
+    "Price": 60,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "React redux",
+    "Description": "Getting react web",
+    "Price": 20,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Dotnet create project",
+    "Description": "Hello everyone, we study dotnet 6",
+    "Price": 150,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Tutorial vscode",
+    "Description": "Hello everyone, not you",
+    "Price": 70,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Redis helloword",
+    "Description": "Hello everyone, not you",
+    "Price": 110,
+    "PictureUrl": "https://titrias.com/files/2022/04/typescript.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  }
+]

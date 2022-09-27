@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SKINET\Intrastructure\bin\Debug\net6.0\Intrastructure.deps.json
+C:\Users\Admin\source\repos\SKINET\Intrastructure\bin\Debug\net6.0\Intrastructure.dll
+C:\Users\Admin\source\repos\SKINET\Intrastructure\bin\Debug\net6.0\Intrastructure.pdb
+C:\Users\Admin\source\repos\SKINET\Intrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Admin\source\repos\SKINET\Intrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.dll
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\refint\Intrastructure.dll
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\Intrastructure.pdb
+C:\Users\Admin\source\repos\SKINET\Intrastructure\obj\Debug\net6.0\ref\Intrastructure.dll
