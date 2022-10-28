@@ -24,6 +24,7 @@ builder.Services.AddDbContext<StoreContext>(x => x.UseSqlServer(connectionString
 //DI
 builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
+builder.Services.AddTransient<IBasketRepository, BasketRepository>();
 builder.Services.AddControllers();
 
 //Mapper
