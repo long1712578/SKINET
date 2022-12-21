@@ -16,12 +16,12 @@
         </div>
 
         <div class="d-flex align-items-center">
-            <button type="button" class="btn btn-secondary me-5">
+            <a routerLink="/basket" class="btn btn-secondary me-5">
               <i class="bi bi-cart"></i>
               <span class="badge text-bg-danger ml-1">9</span>
-            </button>
-            <button type="button" class="btn btn-primary me-2">Login</button>
-            <button type="button" class="btn btn-danger me-3">Sign up</button>
+            </a>
+            <button [routerLink]="['/account/login']" routerLinkActive="router-link-active"  type="button" class="btn btn-primary me-2">Login</button>
+            <button [routerLink]="['/account/register']" routerLinkActive="router-link-active" type="button" class="btn btn-danger me-3">Sign up</button>
         </div>
       </div>
     </div>

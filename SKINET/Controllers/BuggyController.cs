@@ -1,4 +1,5 @@
 ﻿using Intrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SKINET.Errors;
 
@@ -12,7 +13,14 @@ namespace SKINET.Controllers
         {
             _context = context;
         }
-        
+        [Authorize]
+        [HttpGet]
+        [Route("authtest")]
+        public ActionResult<string> TestAuthen()
+        {
+            return "Test oke";
+        }
+
         /// <summary>
         /// 
         /// </summary>

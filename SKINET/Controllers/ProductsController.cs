@@ -3,10 +3,12 @@ using Core.Entities;
 using Core.Interface;
 using Core.Specifications;
 using Intrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SKINET.Dtos;
 using SKINET.Helpers;
+using System.Reflection.Metadata;
 
 namespace SKINET.Controllers
 {

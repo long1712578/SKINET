@@ -7,9 +7,13 @@ networks:
 services:
   redis:
     image: bitnami/redis:latest
+    restart: always
     ports:
       - 6379:6379
-    command: ["redis-server", "--appendonly", "yes"]
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+      - REDIS_DISABLE_COMMANDS=FLUSHDB,FLUSHALL
+      - REDIS_AOF_ENABLED=no
     volumes:
       - redis-data:/data
 
